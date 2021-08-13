@@ -22,7 +22,7 @@
     "find-cache-dir": "^3.3.1",
     "gulp": "^4.0.2",
     "mongodb": "^3.5.5",
-    "next": "^9.3.4",
+    "next": "^11.1.0",
     "next-connect": "^0.6.1",
     "next-session": "^3.0.1",
     "passport": "^0.4.1",
